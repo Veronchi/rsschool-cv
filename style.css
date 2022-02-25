@@ -57,7 +57,7 @@ a {
   margin-bottom: 10px;
 }
 
-.header-info h2 {
+.contact-header {
   margin: 0;
   padding: 0;
   margin-bottom: 5px;
@@ -83,4 +83,24 @@ a {
   margin: 0;
   vertical-align: super;
   line-height: 25px;
+  font-size: 19px;
+}
+
+.about {
+  background-color: #E6BEC6;
+  padding: 20px;
+}
+
+.about-header {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+.about-text {
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+  line-height: 27px;
+  font-size: 19px;
 }
