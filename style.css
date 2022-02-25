@@ -28,7 +28,7 @@ a {
   padding: 20px 30px;
   max-width: 1200px;
   min-width: 320px;
-  background-image: url("./img/5500608.jpg");
+  background-image: url("./assets/img/5500608.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -89,6 +89,7 @@ a {
 .about {
   background-color: #E6BEC6;
   padding: 20px;
+  margin-bottom: 20px;
 }
 
 .about-header {
@@ -103,4 +104,13 @@ a {
   padding: 0;
   line-height: 27px;
   font-size: 19px;
+}
+
+.skills {
+  background-color: #91B3A7;
+}
+
+.dev-info {
+  display: flex;
+  justify-content: space-between;
 }
