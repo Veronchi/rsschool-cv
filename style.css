@@ -109,6 +109,7 @@ a {
 .dev-info {
   display: flex;
   justify-content: start;
+  margin-bottom: 20px;
 }
 
 .skills {
@@ -180,4 +181,28 @@ a {
 .education-item li {
   line-height: 21px;
   list-style-type: disc;
+}
+
+.languages {
+  display: inline-block;
+  background-color: #fdfdf8;
+  padding: 20px;
+}
+
+.languages-header {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+.languages-list {
+  list-style-type: circle;
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+}
+
+.languages-item {
+  font-size: 19px;
+  line-height: 35px;
 }
