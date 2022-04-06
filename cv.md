@@ -18,7 +18,7 @@ I'm 26 years old. Till September 2020 I worked as a director's second assistant 
 - React (basics, Hooks)
 - TypeScript
 - Module Bundler: Webpack
-- Git/GitHab
+- Git/GitHub
 - VS Code
 
 ----
@@ -96,6 +96,6 @@ function countPositivesSumNegatives(input) {
 - Skyeng courses (till now)
 
 ----
-### Laguages:
+### Languages:
 - **Russian** - Native
 - **English** - B1
