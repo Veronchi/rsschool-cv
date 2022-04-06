@@ -2,7 +2,7 @@
 ### Contact info:
 - **Phone:** +375 44 762-15-85
 - **E-mail:** zhigunova1995@gmail.com
-- **Telegram:** @veronchesko
+- **Telegram:** @veronchim
 - **GitHub:** Veronchi
 - **Discord rsschool:** veronchi#5676
 
