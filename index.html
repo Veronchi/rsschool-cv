@@ -80,9 +80,9 @@ function countPositivesSumNegatives(input) {
       return []
   }
     
-  const posArr = input.filter(i => i &gt; 0);
-  const negSum = input.filter(i => i &lt; 0)
-    .reduce((prev, curr) => prev + curr, 0);
+  const posArr = input.filter(i =&gt; i &gt; 0);
+  const negSum = input.filter(i =&gt; i &lt; 0)
+    .reduce((prev, curr) =&gt; prev + curr, 0);
   
   return [posArr.length, negSum];
 }
