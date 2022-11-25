@@ -2,23 +2,24 @@
 ### Contact info:
 - **Phone:** +375 44 762-15-85
 - **E-mail:** zhigunova1995@gmail.com
-- **Telegram:** @veronchesko
+- **Telegram:** @veronchim
 - **GitHub:** Veronchi
 - **Discord rsschool:** veronchi#5676
+
 ----
 ### About me:
-I'm 27 years old. Till September 2020 I worked as a director's second assistant at McDonald's. At this job I gained experience thanks to which I became a team worker. I'm organized and hardworking. My goal is to improve my knowledge and Frontend skills to become a developer. I admire the IT sphere, this community in general and now I aspire to be a part of it.
+Till September 2020 I worked as a director's second assistant at McDonald's. At this job I gained experience thanks to which I became a team worker. I'm organized and hardworking. My goal is to improve my knowledge and Frontend skills to become a developer. I admire the IT sphere, this community in general and now I aspire to be a part of it.
+
+I have experience with simple Angular applications, ready to learn new frameworks. 
 
 ----
 ### Skills:
-- HTML5
-- CSS (SASS/SCSS)
+- HTML/CSS
 - JavaScript
-- React (basics, Hooks)
-- TypeScript
-- Module Bundler: Webpack
-- Git/GitHab
-- VS Code
+- React
+- Webpack
+- Git/GitHub
+
 ----
 ### Code example:
 ```
@@ -88,11 +89,10 @@ function countPositivesSumNegatives(input) {
 - Self-study
     * JavaScript
     * React
-    * TypeScript
-    * Angular
 - Streamline english courses 
 - Skyeng courses (till now)
+
 ----
-### Laguages:
+### Languages:
 - **Russian** - Native
 - **English** - B1
